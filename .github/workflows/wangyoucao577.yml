@@ -6,7 +6,10 @@ on:
 
 env:
   CMD_PATH: ./cmd
+<<<<<<< HEAD:.github/workflows/wangyoucao577.yml
 
+=======
+>>>>>>> 3f0636f... update yml:.github/workflows/release.yml
 
 jobs:
   releases-matrix:
