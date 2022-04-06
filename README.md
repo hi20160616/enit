@@ -11,7 +11,7 @@ copy the exec file to your system bin folder, so you can call it convenient as s
 
 ## via go
 ```
-git clone https://github.com/wedojava/enit.git
+git clone https://github.com/hi20160616/enit.git
 cd enit
 go install cmd/enit.go
 ```
